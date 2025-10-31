@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorseCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92df8da72aa3bee0a0f3effb936e285f05fa0193")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5967a75fbf2b9fb5e17800ffe426fa7dfaf51948")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorseCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorseCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
