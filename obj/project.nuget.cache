@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zof8+eAtfYk=",
+  "dgSpecHash": "bmVk3ryBY2o=",
   "success": true,
   "projectFilePath": "/Users/francoperez/Documents/Visual Studio Code/HorseCalculator/HorseCalculator.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,10 @@
     "/Users/francoperez/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.9/skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
-    "/Users/francoperez/.nuget/packages/tmds.dbus.protocol/0.21.2/tmds.dbus.protocol.0.21.2.nupkg.sha512"
+    "/Users/francoperez/.nuget/packages/tmds.dbus.protocol/0.21.2/tmds.dbus.protocol.0.21.2.nupkg.sha512",
+    "/Users/francoperez/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.10/microsoft.netcore.app.runtime.win-x64.9.0.10.nupkg.sha512",
+    "/Users/francoperez/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.10/microsoft.aspnetcore.app.runtime.win-x64.9.0.10.nupkg.sha512",
+    "/Users/francoperez/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.10/microsoft.netcore.app.host.win-x64.9.0.10.nupkg.sha512"
   ],
   "logs": []
 }

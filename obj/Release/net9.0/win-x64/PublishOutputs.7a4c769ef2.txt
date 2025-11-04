@@ -1,0 +1,2 @@
+/Users/francoperez/Documents/Visual Studio Code/HorseCalculator/bin/Release/net9.0/win-x64/publish/HorseCalculator.pdb
+/Users/francoperez/Documents/Visual Studio Code/HorseCalculator/bin/Release/net9.0/win-x64/publish/HorseCalculator.exe

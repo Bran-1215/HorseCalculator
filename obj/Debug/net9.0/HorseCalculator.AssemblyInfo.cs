@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("horse")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("horse calculator")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2.1.5")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1af1ab690400391b18faf07aa5d743ccad7d336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1592cb6d0a452f0109a243b00cc4524965f955c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Horse Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("horse calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
