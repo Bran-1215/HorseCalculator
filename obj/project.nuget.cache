@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nhBd+sojWtA=",
+  "dgSpecHash": "zof8+eAtfYk=",
   "success": true,
   "projectFilePath": "/Users/francoperez/Documents/Visual Studio Code/HorseCalculator/HorseCalculator.csproj",
   "expectedPackageFiles": [
@@ -19,13 +19,13 @@
     "/Users/francoperez/.nuget/packages/avalonia.themes.simple/11.3.6/avalonia.themes.simple.11.3.6.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/avalonia.win32/11.3.6/avalonia.win32.11.3.6.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/avalonia.x11/11.3.6/avalonia.x11.11.3.6.nupkg.sha512",
-    "/Users/francoperez/.nuget/packages/communitytoolkit.mvvm/8.2.1/communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/harfbuzzsharp/8.3.1.1/harfbuzzsharp.8.3.1.1.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/harfbuzzsharp.nativeassets.linux/8.3.1.1/harfbuzzsharp.nativeassets.linux.8.3.1.1.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/harfbuzzsharp.nativeassets.macos/8.3.1.1/harfbuzzsharp.nativeassets.macos.8.3.1.1.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/harfbuzzsharp.nativeassets.webassembly/8.3.1.1/harfbuzzsharp.nativeassets.webassembly.8.3.1.1.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/harfbuzzsharp.nativeassets.win32/8.3.1.1/harfbuzzsharp.nativeassets.win32.8.3.1.1.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/microcom.runtime/0.11.0/microcom.runtime.0.11.0.nupkg.sha512",
+    "/Users/francoperez/.nuget/packages/microsoft.net.illink.tasks/9.0.10/microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/skiasharp/2.88.9/skiasharp.2.88.9.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/skiasharp.nativeassets.linux/2.88.9/skiasharp.nativeassets.linux.2.88.9.nupkg.sha512",
     "/Users/francoperez/.nuget/packages/skiasharp.nativeassets.macos/2.88.9/skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",

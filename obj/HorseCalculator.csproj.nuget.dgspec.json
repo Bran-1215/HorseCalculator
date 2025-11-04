@@ -64,9 +64,11 @@
               "target": "Package",
               "version": "[11.3.6, )"
             },
-            "CommunityToolkit.Mvvm": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.2.1, )"
+              "version": "[9.0.10, )",
+              "autoReferenced": true
             }
           },
           "imports": [

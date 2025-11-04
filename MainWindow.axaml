@@ -1,0 +1,16 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="HorseCalculator.MainWindow"
+        Width="600" Height="400"
+        Title="Horse Calculator">
+    <StackPanel Margin="20" Spacing="10">
+        <TextBlock x:Name="HorseText" Text="Horse Calculator" FontSize="18" HorizontalAlignment="Center"/>
+        <Image x:Name="HorseImage" Source="avares://HorseCalculator/Assets/hrse/horse_still.png" Width="300" Height="200"/>
+        <TextBox x:Name="ExprBox" Width="300" />
+        <Button x:Name="AddButton" Content="calculate" HorizontalAlignment="Center"/>
+        <ProgressBar x:Name="WorkBar"
+               Minimum="0" Maximum="100"
+               IsVisible="False" Height="8"/>
+        <TextBlock x:Name="ResultText" FontSize="16" HorizontalAlignment="Center"/>
+    </StackPanel>
+</Window>
